@@ -8,4 +8,4 @@ python -m streamlit run app.py
 ```
 
 路徑
-cd ai_finance_manager_main
+cd ai_finance_manager-main
